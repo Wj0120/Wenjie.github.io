@@ -1,0 +1,60 @@
+<list>
+    <character>
+        <Name>Wriothesley</Name>
+        <Star_Level>5</Star_Level>
+        <Element>CYRO</Element>
+        <Weapon>BIG SWORD</Weapon>
+        <Description>Wriothesley is a playable Ousia-aligned Cryo character in Genshin Impact</Description>
+    </character>
+
+    <character>
+        <Name>Alhaitham</Name>
+        <Star_Level>5</Star_Level>
+        <Element>DENDRO</Element>
+        <Weapon>LIGHT SWORD</Weapon>
+        <Description>Alhaitham is a playable Dendro character in Genshin Impact</Description>
+    </character>
+
+    <character>
+        <Name>Barbara</Name>
+        <Star_Level>4</Star_Level>
+        <Element>HYDRO</Element>
+        <Weapon>BOOK</Weapon>
+        <Description>Barbara Pegg is a playable Hydro character in Genshin Impact</Description>
+    </character>
+
+    <character>
+        <Name>Bennett</Name>
+        <Star_Level>4</Star_Level>
+        <Element>PYRO</Element>
+        <Weapon>LIGHT SWORD</Weapon>
+        <Description>Bennett is a playable Pyro character in Genshin Impact</Description>
+    </character>
+
+    <character>
+        <Name>Chong Yun</Name>
+        <Star_Level>4</Star_Level>
+        <Element>CYRO</Element>
+        <Weapon>BIG SWORD</Weapon>
+        <Description>Chongyun is a playable Cryo character in Genshin Impact</Description>
+    </character>
+
+    <character>
+        <Name>Lyney</Name>
+        <Star_Level>5</Star_Level>
+        <Element>PYRO</Element>
+        <Weapon>BOW</Weapon>
+        <Description>Lyney is a playable Pneuma-aligned Pyro character in Genshin Impact</Description>
+    </character>
+
+    <character>
+        <Name>Shenhe</Name>
+        <Star_Level>5</Star_Level>
+        <Element>CYRO</Element>
+        <Weapon>LONG KNIFE</Weapon>
+        <Description>Shenhe is a playable Cryo character in Genshin Impact</Description>
+    </character>
+
+
+
+</list>
