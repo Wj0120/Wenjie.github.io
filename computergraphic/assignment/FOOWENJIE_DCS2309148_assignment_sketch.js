@@ -9,6 +9,12 @@ let circles = [];
 let balls = [];
 let lines = [];
 
+let img;
+
+function preload() {
+    img = loadImage('ciclogo.jpg');
+}
+
 function setup() {
     createCanvas(1280, 720);
     background(0);
@@ -41,7 +47,7 @@ function setup() {
 
 function draw() {
     background(0);
-    
+    image(img, 0, 0);
     // Timer
     timer += deltaTime / 1000;
     if (timer > 8) {
@@ -54,10 +60,10 @@ function draw() {
     }
 
     // Display timer
-    fill('red');
-    noStroke();
-    textSize(20);
-    text(timer, 20, 50);
+    // fill('red');
+    // noStroke();
+    // textSize(20);
+    // text(timer, 20, 50);
 
     // Rotate the canvas
     push();
