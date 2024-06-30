@@ -207,8 +207,6 @@ function setup() {
 function draw() {
     background(0, 101, 202);
     noStroke();
-    fill(255);
-    text("Hold button to activate cue tip.", 32, 32);
 
     fill(0, 122, 0);
     rect(width / 2, height / 2, topEdge.wid, leftEdge.hid);
